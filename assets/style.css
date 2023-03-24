@@ -1,5 +1,5 @@
 ::selection {
-    background-color: honeydew;
+    background-color: rgb(194, 234, 194);
 }
 
 :root {
@@ -17,7 +17,7 @@ body {
     background:linear-gradient(
         120deg,
         salmon 0%,
-        salmon 50%
+        salmon 50%,
         deepskyblue 50%
     );
 }
